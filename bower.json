@@ -11,6 +11,7 @@
     "purescript-console": "^4.1.0",
     "purescript-effect": "^2.0.0"
   },
+  "license": "Apache-2.0",
   "devDependencies": {
     "purescript-psci-support": "^4.0.0"
   }
